@@ -3,7 +3,7 @@
 ## About This Project
 This project provides a comprehensive analysis of **Snapple's brand evolution, market positioning, and digital marketing strategy**. It demonstrates the ability to analyze consumer behavior, develop data-driven insights, and design actionable marketing campaigns for modern platforms like TikTok.
 
-🔗 **Full Write-Up:** [Snapple Write-Up PDF](https://drive.google.com/drive/folders/1loKMWB15wDtXh5K84elTh3ZyAHEA4J9s)
+🔗 **Full Write-Up:** [Snapple Write-Up PDF](https://drive.google.com/file/d/1PSopSSVbkJhvYfVjkCH2_QGpGHUbFOwF/view?usp=sharing)
 
 ---
 
